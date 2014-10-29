@@ -1,4 +1,5 @@
 FxOS-OSM-Mapper-HNo
 ===================
 
-App to add house numbers and address tags to the OpenStreetMap database
+App for Firefox OS to map house numbers and address tags to the OpenStreetMap database.
+
